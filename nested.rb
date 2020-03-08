@@ -138,3 +138,4 @@ programmer_hash[:dennis_ritchie][:languages] = [:languages] << "Assembly"
 programmer_hash
 
 end
+programmer_hash
